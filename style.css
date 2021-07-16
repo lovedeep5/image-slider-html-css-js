@@ -297,7 +297,7 @@ body {
     /* height: 20px; */
     background: rgba(0, 0, 0, 0.8);
     color: rgba(230, 230, 230, 0.925);
-    font-size: 14px;
+    font-size: 12px;
     letter-spacing: 0.025em;
     text-align: center;
     position: fixed;
@@ -321,6 +321,6 @@ body {
     10%{ transform: scale(0.7);}
     20%{ transform: scale(0.5);}
     30%{ transform: scale(0.7);}
-    90%{ transform: scale(1.5);}
+    90%{ transform: scale(1.1);}
     100%{ transform: scale(1);}
 }
