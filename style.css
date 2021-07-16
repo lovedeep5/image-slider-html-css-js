@@ -307,3 +307,20 @@ body {
     line-height: 1;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.footer .heart{
+    color: red;
+    font-size: 50px;
+    display: inline-block;
+    position: relative;
+    animation: heart 1s infinite;
+}
+
+@keyframes heart{
+    0%{ transform: scale(0.5);}
+    10%{ transform: scale(0.7);}
+    20%{ transform: scale(0.5);}
+    30%{ transform: scale(0.7);}
+    90%{ transform: scale(1.5);}
+    100%{ transform: scale(1);}
+}
