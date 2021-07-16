@@ -312,7 +312,7 @@ body {
 
 .footer .heart{
     color: red;
-    font-size: 50px;
+    font-size: 40px;
     display: inline-block;
     position: relative;
     animation: heart 1s infinite;
